@@ -42,7 +42,7 @@
 
 ## Dependencies
 
-- Twilios
+- Twilio
 
 - Express
 
