@@ -1,6 +1,6 @@
 # Simple OTP and Confirmation Sms Service
 
-#### Service is Created Using Twilio API. I always wanted to know to how Sms are sent by the backend. That's why i wanted to build this service.
+#### Service is Created Using Twilio API. I always wanted to know how Sms are sent by the backend. That's why i wanted to build this service.
       
 
 ## How to run the app
