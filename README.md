@@ -1,4 +1,6 @@
-# Simple OTP and Confirmation Sms of Order Service Using Twilio API
+# Simple OTP and Confirmation Sms Service
+
+## Service is Created Using Twilio API
 
 ## How to run the app
 
