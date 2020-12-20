@@ -3,6 +3,7 @@
 ### Description.
 
 #### Service is Created Using Twilio API. I always wanted to know how Sms are sent by the backend. That's why i wanted to build this service.
+####   Build 3 API to sent OTP ,to check OTP and to Confirm Order.
       
 
 ## How to run the app
