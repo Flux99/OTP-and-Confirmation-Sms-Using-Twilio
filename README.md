@@ -36,13 +36,7 @@
 
 4. Click on Order
 
-5. Sms will be sent to you containing bill Amount and OrderId
-
-## User Stories
-
-- A user can create a room
-
-- A user can see the time of the last message
+5. Sms will be sent to you containing bill Amount and OrderId.
 
 ## Dependencies
 
@@ -60,6 +54,10 @@
 
 ## What the app looks like
 
-![alt text](https://github.com/Flux99/whatsapp-clone/blob/master/screenshot/Screenshot%20from%202020-12-20%2014-16-16.png?raw=true)
+![alt text](https://github.com/Flux99/OTP-and-Confirmation-Sms-Using-Twilio/blob/master/Screenshot/Screenshot_1.png?raw=true)
 
-![alt text](https://github.com/Flux99/whatsapp-clone/blob/master/screenshot/Screenshot%20from%202020-12-20%2014-18-33.png?raw=true)
+![alt text](https://github.com/Flux99/OTP-and-Confirmation-Sms-Using-Twilio/blob/master/Screenshot/Screenshot_2.jpeg?raw=true)
+
+![alt text](https://github.com/Flux99/OTP-and-Confirmation-Sms-Using-Twilio/blob/master/Screenshot/Screenshot_3.jpeg?raw=true)
+
+![alt text](https://github.com/Flux99/OTP-and-Confirmation-Sms-Using-Twilio/blob/master/Screenshot/Screenshot_4.jpeg?raw=true)
