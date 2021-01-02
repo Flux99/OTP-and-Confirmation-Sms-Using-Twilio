@@ -3,7 +3,7 @@
 ### Description.
 
 #### Service is Created Using Twilio API. I always wanted to know how Sms is sent by the backend. That's why I wanted to build this service. Build 3 API, first to send OTP to your phone number, second to check OTP, and third to send Order Confirmation SMS.
-      
+Deployed link: https://otp-system-service.herokuapp.com/
 
 ## How to run the app
 
